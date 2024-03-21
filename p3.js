@@ -7,3 +7,6 @@ myArray.shift();
 
 console.log(ourArray);
 console.log(myArray);
+
+myArray.unshift(["Paul",35]);
+console.log(myArray);
